@@ -1,0 +1,54 @@
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<title> </title>
+	
+	<link rel="stylesheet" type="text/css" href="RaziTeam.css">
+	</head>
+	<body>
+
+	<a href="RaziTeam.html"><img src="lehrer/logo12.png" width=500 height=75 /></a>
+	<h1>RaziTeam GmbH&Co.KG </h1>
+	
+	<table id="customers">
+	
+		<tr>	
+				<th><a href="Produkte.html">Produkte</a></th> 
+				<th><a href="Unternehmen.html">Unternehmen</a></th>
+				<th><a href="Kontakt.html">Kontakt</a></th>
+				<th><a href="Impressum.html">Impressum</a></th>
+		</tr>
+	</table>
+	
+		<h2>Unternehmen:</h2>
+	
+		<section>
+				<div id="unternehmen"> 
+					<b>Teambuildingmaßnahmen - Wozu braucht Ihr Unternehmen das?</b></br>
+					<div>Teambildungsmaßnahmen fördern die Motivation und die Kommunikation. Das gemeinsame Bewältigen von Aufgaben in einem Team schweißt Ihre Mitarbeiter zusammen. Erlebnisse außerhalb des Büroalltags verbinden das Team emotional.</div></br>
+					<b>Wie beeinflusst Teambuilding das Geschäft?</b></br>
+					<div>Das Ergebnis von aktiven Teambuilding-Prozessen ist motivierte und engagierte Mitarbeiter, die ihre Arbeitszeit produktiver nutzen und sich mit Ihrem Unternehmen identifizieren. Starke Teams sind also Ihr Garant für ein erfolgreiches Unternehmen. </div></br>
+					<b>Teambuilding - Was ist das eigentlich?</b></br>
+					<div>Teambildung ist ein aktiver, gesteuerter Prozess zur Verbesserung der Zusammenarbeit Ihrer Mitarbeiter. Dabei stärken wir nicht nur Kompetenzen einzelner Teammitglieder oder der ganzen Gruppe (z. B. Kommunikation), sondern verbessern auch die Strukturen der Zusammenarbeit.</div></br>
+					<b>Unser Leitbild:</b>
+					<div> Unsere Kunden sind unsere „Partner“ und daher ist ihr Erfolg auch unser Erfolg. Wir pflegen persönliche und auf Langfristigkeit ausgerichtete Kundenbeziehungen. Unseren bestehenden Kundenbeziehungen schenken wir unsere besondere Aufmerksamkeit im kontinuierlichen Dialog. </div></br>
+					<div>Unser Team ist die Basis unseres Erfolges. Wir pflegen eine direkte, auf Vertrauen bauende Kommunikation. Gegenseitiger Respekt, klare Ziele und entschlossene Führung prägen unsere Unternehmenskultur. Ein motivierendes Arbeitsklima ist für uns Motivation und Auftrag zugleich. </div></br>
+					<div>Unsere Schulungsgrundsätze: Wir vermitteln unseren Kunden nicht nur die für die Lösung komplexer Aufgabenstellungen erforderlichen Fach- und Methodenkompetenzen, sondern fördern auch die für den Umgang mit anderen Menschen notwendigen Sozialkompetenzen. </div></br>
+					<div> Für uns ist die Qualitätsentwicklung und Qualitätssicherung ein permanenter Prozess. Wir stehen für praxisorientierte Aus- und Weiterbildung. Dabei werden nicht nur einzelne Teilsegmente abgedeckt, sondern auch für spezifische Zielgruppen maßgeschneiderte Programme und individuelle Module angeboten. </div> </br>
+					<b>Unser Team:</b></br>
+					</br><table>
+
+						<tr><th><img src="Bild Pfad" alt="Bild Name" style="width:100px;height:130px"></th><th><img src="Bild Pfad" alt="Bild Name" style="width:100px;height:130px"></th><th><img src="Bild pfad" alt="Bild Name" style="width:100px;height:130px" ></th><th><img src="Bild Pfad" alt="Bild Name" style="width:100px;height:130px" ></th></tr>
+						<tr><td><div><small><center>Vor Nachname Name@gmail.com </center></small></div></td><td><div><small><center>Name Nachname namw@gmail.com</center></small></div></td><td><div><small><center>Name Nachnamme  name@gmail.com</center></small></div></td><td><div><small><center>Name Nachname  Name@gmail.com</center></small></div></td></tr>
+						<tr><th><img src="Bild pfad" alt="Bild Name " style="width:100px;height:130px" ></th><th><img src="bild pfad" alt="Bild name" style="width:100px;height:130px" ></th><th><img src="Bild pfad" alt="Bild name" style="width:100px;height:130px" ></th><th><img src="Bild pfad" alt="Bild name" style="width:100px;height:130px"></th></tr>
+						<tr><td><div><small><center>Name Nachname name@gmial.com </center></small></div></td><td><div><small><center>Name Nachname Name@gmial.com</center></small></div></td><td><div><small><center>Name Nachname Name@gmail.com</center></small></div></td><td><div><small><center>Name Nachname Name@gmail.com</center></small></div></td></tr>
+					</table></br>
+					<div>Für weitere Informationen, können Sie gerne einen Termin vereinbaren.</div>
+				</div>
+			</section>
+				
+
+	</body>
+
+</html>
